@@ -1,5 +1,5 @@
 # GameMap
-Game minimap without camera
+Game minimap view, not be form camera
 
 #video
 
